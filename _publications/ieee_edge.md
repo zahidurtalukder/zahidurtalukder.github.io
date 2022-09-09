@@ -3,7 +3,7 @@ title: "Computationally Efficient Auto-Weighted
 Aggregation for Heterogeneous Federated Learning"
 collection: publications
 permalink: /publication/ieee_edge
-excerpt: 'Propose an auto weighted aggregation techniques for FL'
+excerpt: 'Proposed an auto weighted aggregation techniques for FL'
 date: 2022-07-09
 venue: 'IEEE International Conference on Edge Computing and Communications (EDGE)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9860312'
