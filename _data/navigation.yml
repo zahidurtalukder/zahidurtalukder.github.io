@@ -3,20 +3,20 @@ main:
   - title: "Resume"
     url: https://Zahid2734.github.io/files/Zahid_resume_2022 (2).pdf
     
+  - title: "Project"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+ - title: "Teaching"
+    url: /teaching/ 
+    
+  - title: "Achievements"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-    
+ 
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Extra"
     url: /markdown/
