@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Resume"
+    url: https://github.com/Zahid2734/Zahid2734.github.io/blob/master/files/Zahid_resume_2022%20(2).pdf
+    
   - title: "Publications"
     url: /publications/
 
@@ -11,9 +14,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Resume"
-    url: https://github.com/Zahid2734/Zahid2734.github.io/blob/master/files/Zahid_resume_2022%20(2).pdf
     
   - title: "CV"
     url: /cv/
