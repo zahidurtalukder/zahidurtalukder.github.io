@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-* Spring 2022 - CSE 5311-Design & Analysis of Algorithms
-* Fall 2021 - CSE 5311-Design & Analysis of Algorithms
-* Summer 2021 - CSE 1320-Introduction to Programming (C)
-* Spring 2021 - CSE 5311-Design & Analysis of Algorithms
-* Fall 2020 - CSE 5311-Design & Analysis of Algorithms
-* Summer 2020 - CSE 1320-Introduction to Programming (C)
-* Spring 2020 - CSE 5311-Design & Analysis of Algorithms
+* Fall 2022 - 2212-CSE-4323-001-QUANTITATIVE COMPUTER ARCH
+* Summer 2022 - 2225-CSE-3318-001-ALGORITHMS & DATA STRUCTURES
+* Spring 2022 - 2212-CSE-4323-001-QUANTITATIVE COMPUTER ARCH
+* Fall 2021 - 2212-CSE-4323-001-QUANTITATIVE COMPUTER ARCH
+* Spring 2021 - 2212-CSE-4323-001-QUANTITATIVE COMPUTER ARCH
+* Fall 2020 - 2208-CSE-4314-001-PROFESSIONAL PRACTICES
+* Summer 2020 - 2205-CSE-5392-001-TOPICS IN COMPUTER SCIENCE
+* Spring 2020 - 2202-CSE-5311-003-DSGN & ANLY ALGORITHM
+* Fall 2019 - 2198-CSE-1105-001-INTRO COMPUTER SCI & ENGR
