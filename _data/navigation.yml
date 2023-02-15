@@ -1,17 +1,23 @@
 # main links links
 main:
   - title: "Resume"
-    url: https://Zahid2734.github.io/files/Zahid_resume_2023.pdf
-    
-  - title: "Project"
-    url: /portfolio/
+    url: https://Zahid2734.github.io/files/Zahid_resume_2022 (2).pdf
     
   - title: "Publications"
     url: /publications/
 
- - title: "Teaching"
-    url: /teaching/     
- 
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "CV"
     url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
     
