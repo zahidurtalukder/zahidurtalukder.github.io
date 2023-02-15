@@ -16,7 +16,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: https://Zahid2734.github.io/files/Zahid_resume_2023.pdf
     
   - title: "Guide"
     url: /markdown/
