@@ -11,9 +11,7 @@ main:
 
  - title: "Teaching"
     url: /teaching/ 
-    
-  - title: "Achievements"
-    url: /talks/    
+       
  
   - title: "CV"
     url: /cv/
