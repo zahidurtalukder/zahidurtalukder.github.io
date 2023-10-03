@@ -11,9 +11,9 @@ title                    : "Zahidur Talukder"
 title_separator          : "-"
 name                     : &name "Zahidur Talukder"
 description              : &description "Ph.D. Candidate"
-url                      : https://Zahid2734.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zahidurtalukder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zahid2734/Zahid2734.github.io"
+repository               : "zahidurtalukder/zahidurtalukder.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=j4grcooAAAAJ&hl=en"
-  email            : "zahidurrahim.talukder@uta.edu"
+  email            : "zahidurrahim.talukder@mavs.uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zahid2734"
+  github           : "zahidurtalukder"
   google_plus      :
   keybase          :
   instagram        :
