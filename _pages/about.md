@@ -19,7 +19,7 @@ I am deeply passionate about the applications of machine learning and algorithms
 
 **June 2024:** Received a Certificate of Reviewing for contributing a review to ACM Performance Evaluation.
 
-**May 2024:** Selected as one of the 2024 ML and Systems Rising Stars<a href="https://mlcommons.org/2024/06/2024-mlc-rising-stars/">.
+**May 2024:** Selected as one of the 2024 <a href="https://mlcommons.org/2024/06/2024-mlc-rising-stars/">ML and Systems Rising Stars</a>.
 
 **May 2024:** Accepted as a graduate mentor for the I Engage Mentoring Program for Summer 2024.
 
