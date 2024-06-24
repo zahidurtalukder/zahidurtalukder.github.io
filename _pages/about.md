@@ -23,4 +23,6 @@ I am deeply passionate about the applications of machine learning and algorithms
 
 **May 2024:** Accepted as a graduate mentor for the I Engage Mentoring Program for Summer 2024.
 
+**Nov 2023:** Our Paper <a href="https://dl.acm.org/doi/abs/10.1145/3625687.3625801">"Enabling Low-Cost Server-Level Power Monitoring in Data Centers Using Conducted EMI"</a> got accepted in Sensys23.
+
 Feel free to reach out if you have any questions or would like to collaborate on research projects!
