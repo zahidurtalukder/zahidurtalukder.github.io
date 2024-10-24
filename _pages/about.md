@@ -15,6 +15,9 @@ My research is centered on the theoretical, empirical, and security aspects of a
 I am deeply passionate about the applications of machine learning and algorithms, striving to create secure and efficient solutions. My work aims to address significant challenges in data privacy, AI sustainability, and fairness in heterogeneous federated learning systems. As a recognized Machine Learning and Systems Rising Star of 2024, I am dedicated to advancing the field and making impactful contributions.
 
 ## News
+**October 2024:** Our Paper <a href="https://github.com/zahidurtalukder/FairHeteroFL">"Hardware-Sensitive Fairness in Heterogeneous Federated Learning" </a> got accepted in ACM TOMPECS-2024.
+
+
 **August 2024:** Selected as Reviewer for ICLR 2024.
 
 **June 2024:** Selected as Reviewer for NeurIPS 2024.
