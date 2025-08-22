@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Zahidur Talukder, a Ph.D. candidate in the Department of Computer Science and Engineering at The University of Texas at Arlington, under the supervision of <a href="https://crystal.uta.edu/~mislam/">Dr. Mohammad Atiqul Islam</a>. I earned my B.Sc. in Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET) in 2018, followed by an MBA from the Institute of Business Administration (IBA) at the University of Dhaka. I commenced my Ph.D. journey in the Fall of 2019.
+I am an Assistant Professor of Computer Science at Texas Lutheran University, where I teach, mentor, and conduct research in algorithms, machine learning, and AI sustainability.
 
-My research is centered on the theoretical, empirical, and security aspects of algorithms and machine learning. Specifically, I focus on federated learning, where I have been working on efficient data and client handling. My contributions include developing self-regulating clients that can manage data-level errors and innovating new aggregation techniques for servers in federated learning environments.
+I earned my Ph.D. in Computer Science from The University of Texas at Arlington under the supervision of Dr. Mohammad Atiqul Islam. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET) in 2018 and pursued an MBA at the Institute of Business Administration (IBA), University of Dhaka.
 
-I am deeply passionate about the applications of machine learning and algorithms, striving to create secure and efficient solutions. My work aims to address significant challenges in data privacy, AI sustainability, and fairness in heterogeneous federated learning systems. As a recognized Machine Learning and Systems Rising Star of 2024, I am dedicated to advancing the field and making impactful contributions.
+My research focuses on the theoretical, empirical, and security aspects of algorithms and machine learning, with particular emphasis on federated learning. I have developed self-regulating clients that address data-level errors and introduced new server aggregation techniques for efficient, fair, and privacy-preserving federated systems.
+
+I am passionate about advancing sustainable and trustworthy AI while preparing the next generation of computer scientists to innovate responsibly.
+
 
 ## News
-**October 2024:** Our Paper <a href="https://github.com/zahidurtalukder/FairHeteroFL">"Hardware-Sensitive Fairness in Heterogeneous Federated Learning" </a> got accepted in ACM TOMPECS-2024.
+**May 2025:** Our Paper <a href="https://github.com/zahidurtalukder/FedSRC">"Empowering Clients: Self-Adaptive Federated Learning for Data Quality Challenges" </a> got accepted in IEEE EDGE-2025.
 
+**October 2024:** Our Paper <a href="https://dl.acm.org/doi/full/10.1145/3703627">"Hardware-Sensitive Fairness in Heterogeneous Federated Learning" </a> got accepted in ACM TOMPECS-2024.
 
 **August 2024:** Selected as Reviewer for ICLR 2024.
 
