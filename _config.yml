@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zahidur Talukder"
 title_separator          : "-"
 name                     : &name "Zahidur Talukder"
-description              : &description "Ph.D. Candidate"
+description              : &description "Assistant Professor"
 url                      : https://zahidurtalukder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zahidurtalukder/zahidurtalukder.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zahidur Talukder"
   avatar           : "Zahid.jpg"
-  bio              : "Ph.D. Candidate in Department of Computer Science at The University of Texas at Arlington"
-  location         : "Arlington, Texas"
-  employer         :
+  bio              : "Assistant Professor of Computer Science"
+  location         : "Seguin, Texas"
+  employer         : "Texas Lutheran University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=j4grcooAAAAJ&hl=en"
-  email            : "zahidurrahim.talukder@mavs.uta.edu"
+  email            : "ztalukder@tlu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
